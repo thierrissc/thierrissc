@@ -1,45 +1,63 @@
-# 👋 Olá, eu sou o Thierri!
+<h1 align="center">👋 Olá, eu sou o Thierri</h1>
 
-💻 **Engenheiro de Software em formação**, apaixonado por tecnologia, desenvolvimento web e criação de experiências digitais modernas.
-
-Atualmente focado em construir aplicações completas (front + back), sempre buscando evoluir minhas habilidades e boas práticas de desenvolvimento.
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-### 💡 Linguagens
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Tecnologias
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p align="center">
+  💻 Engenheiro de Software em formação <br>
+  🚀 Apaixonado por desenvolvimento web e tecnologia
+</p>
 
 ---
 
-## 📚 Sobre mim
+## 🚀 Tecnologias
 
-Sou um desenvolvedor em constante evolução, focado em me tornar um **engenheiro de software completo**.  
-Gosto de transformar ideias em soluções reais, com código limpo, eficiente e bem estruturado.
-
-🚧 Atualmente estudando:
-- Arquitetura de software
-- Boas práticas de desenvolvimento
-- Desenvolvimento Full Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,nextjs" />
+</p>
 
 ---
 
-## 🌎 Onde me encontrar
+## 📊 Estatísticas
 
-🔗 LinkedIn: https://www.linkedin.com/in/seu-link-aqui  
-📧 Email: seuemail@email.com  
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+</p>
 
 ---
 
-## ⚡ Curiosidade
+## 🧠 Sobre mim
 
-Sempre buscando aprender algo novo todos os dias 🚀
+Sou um desenvolvedor em constante evolução, focado em me tornar um **engenheiro de software completo**.
+
+💡 Tenho interesse em:
+- Desenvolvimento Full Stack  
+- Arquitetura de Software  
+- Interfaces modernas e performáticas  
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  
+  <a href="mailto:SEUEMAIL@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Animação
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Sempre+aprendendo+novas+tecnologias;Futuro+Engenheiro+de+Software🚀" />
+</p>
