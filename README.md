@@ -1,8 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Thierri</h1>
+<h1 align="center">Olá, eu sou o Thierri</h1>
 
 <p align="center">
   💻 Engenheiro de Software em formação <br>
-  🚀 Apaixonado por desenvolvimento web e tecnologia
 </p>
 
 ---
@@ -20,12 +19,12 @@
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=thierrissc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierrissc&layout=compact&theme=tokyonight&hide_border=true" 
   />
 </p>
 
@@ -45,11 +44,11 @@ Sou um desenvolvedor em constante evolução, focado em me tornar um **engenheir
 ## 🌐 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/thierrissc" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   
-  <a href="mailto:SEUEMAIL@email.com">
+  <a href="mailto:thierrissc@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
