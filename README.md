@@ -4,14 +4,14 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 
 ## 👨‍💻 Sobre mim
 
 Engenheiro de Software em formação, focado no desenvolvimento com tecnologias modernas como TypeScript, React, Next.js e Node.js. Busco criar aplicações escaláveis, com código limpo e boas práticas, sempre em constante evolução e aprendizado.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Tech Stack
 
@@ -34,7 +34,7 @@ Engenheiro de Software em formação, focado no desenvolvimento com tecnologias 
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 Contatos
 
@@ -45,7 +45,7 @@ Engenheiro de Software em formação, focado no desenvolvimento com tecnologias 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 <picture>
@@ -55,7 +55,7 @@ Engenheiro de Software em formação, focado no desenvolvimento com tecnologias 
 </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=60&section=footer" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
