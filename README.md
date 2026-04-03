@@ -51,11 +51,11 @@ Busco criar aplicações escaláveis, com código limpo e boas práticas, sempre
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thierrissc/thierrissc/output/github-contribution-grid-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thierrissc/thierrissc/output/github-contribution-grid-pacman.svg" />
-  <img alt="pacman" src="https://raw.githubusercontent.com/thierrissc/thierrissc/output/github-contribution-grid-pacman.svg" />
- </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thierrissc/thierrissc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thierrs/thierrissc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thierrissc/thierrissc/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
