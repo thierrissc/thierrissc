@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated header with typing effect using readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C;Olá,+sou+Thierri+Silva;Engenheiro+de+Software++em+construção;)](https://git.io/typing-svg)
 
 </div>
@@ -11,8 +10,6 @@
 ## 👨‍💻 Sobre mim
 
 Engenheiro de Software em formação, focado no desenvolvimento com tecnologias modernas como TypeScript, React, Next.js e Node.js. Busco criar aplicações escaláveis, com código limpo e boas práticas, sempre em constante evolução e aprendizado.
-
-<br clear="right"/>
 
 ---
 
@@ -50,13 +47,15 @@ Engenheiro de Software em formação, focado no desenvolvimento com tecnologias 
 
 ---
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=60&section=footer" />
 
 <div align="center">
 
