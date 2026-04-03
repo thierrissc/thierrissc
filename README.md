@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C;Olá,+sou+Thierri+Silva;Engenheiro+de+Software++em+construção;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00aecc&center=true&vCenter=true&width=600&lines=Olá,+sou+Thierri+Silva;Engenheiro+de+Software++em+construção;)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,7 +41,7 @@ Engenheiro de Software em formação, focado no desenvolvimento com tecnologias 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thierrissc)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thierrissc@gmail.com)
+[![Gmail](https://img.shields.io/badge/thierrissc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 </div>
 
@@ -56,9 +56,3 @@ Engenheiro de Software em formação, focado no desenvolvimento com tecnologias 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=thierrissc&color=00D9FF&style=for-the-badge&label=VISITANTES)
-
-</div>
