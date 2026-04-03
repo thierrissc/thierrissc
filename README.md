@@ -58,7 +58,5 @@ Engenheiro de Software em formação, focado no desenvolvimento com tecnologias 
   <img alt="pacman" src="https://raw.githubusercontent.com/thierrissc/thierrissc/output/github-contribution-grid-pacman.svg" />
  </picture>
 </div>
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
