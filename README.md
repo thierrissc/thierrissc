@@ -2,10 +2,13 @@
   Olá, sou Thierri Silva
 </h1>
 
+ 
 <p align="center">
   💻 Engenheiro de Software em formação <br>
   🚀 Focado atualmente em desenvolvimento Full Stack
 </p>
+
+
 
 
 
@@ -16,19 +19,21 @@ Busco sempre escrever código limpo, escalável e com boas práticas.
 
 
 
+
 ## ⚡ Minha Stack
 <div align="center">
-### 🚀 Linguagens
+🚀 Linguagens
 </div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 </p>
 <div align="center">  
-### ⚙️ Frameworks & Tecnologias
+⚙️ Frameworks & Tecnologias
 </div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs" />
 </p>
+
 
 
 
@@ -44,9 +49,10 @@ Busco sempre escrever código limpo, escalável e com boas práticas.
   </a>
 </p>
 
----
+
+
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;;Em+constante+aprendizado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;" />
 </p>
