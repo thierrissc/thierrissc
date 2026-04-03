@@ -53,9 +53,9 @@ Engenheiro de Software em formação, focado no desenvolvimento com tecnologias 
 
 <div align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-pacman.svg" />
-  <img alt="pacman" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thierrissc/thierrissc/output/github-contribution-grid-pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thierrissc/thierrissc/output/github-contribution-grid-pacman.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/thierrissc/thierrissc/output/github-contribution-grid-pacman.svg" />
  </picture>
 </div>
 
