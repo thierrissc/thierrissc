@@ -11,7 +11,9 @@
 
 <h3 align="center">
   <strong>
-Engenheiro de Software em formação, focado no desenvolvimento com tecnologias modernas como TypeScript, React, Next.js e Node.js. Busco criar aplicações escaláveis, com código limpo e boas práticas, sempre em constante evolução e aprendizado.
+Engenheiro de Software em formação, focado no desenvolvimento com tecnologias modernas como TypeScript, React, Next.js e Node.js. 
+<br><br>
+Busco criar aplicações escaláveis, com código limpo e boas práticas, sempre em constante evolução e aprendizado.
   </strong>
 </h3>
 
