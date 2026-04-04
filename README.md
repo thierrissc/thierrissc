@@ -40,7 +40,7 @@ Busco criar aplicações com código limpo e boas práticas, sempre em constante
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thierrissc)
-[![Gmail](https://img.shields.io/badge/thierrissc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/thierricontact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thierricontact@gmail.com)
 
 </div>
 
